@@ -8,7 +8,7 @@ hkking 的 GPT小龙娘桌面版发布页，这里只提供安装包下载，不
 
 ## 下载安装
 
-1. 打开 **[Releases](https://github.com/hkk1121/hkking-desktop/releases/latest)**，下载最新的 `GPT-DragonPet-Desktop-Setup-x.x.x.exe`。
+1. 打开 **[Releases](https://github.com/hkk1121/hkking-desktop/releases/latest)**，下载最新的 `GPT小龙娘桌面版-安装包-vX.X.X.exe`（另外两个文件是应用内更新用的，不用下载）。
 2. 双击安装，需要 **Windows 10 / 11（64 位）**。默认装在当前用户目录下，不需要管理员权限，也可以自己选安装位置。
 
 > 安装包约 1GB（几十个动作、一万多帧动画都在里面），建议连 Wi-Fi 下载。国内访问 GitHub 较慢时可以多试几次。
