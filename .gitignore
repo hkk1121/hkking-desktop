@@ -1,0 +1,4 @@
+# 安装包只放在 Releases，不纳入版本管理
+*.exe
+*.blockmap
+latest.yml
