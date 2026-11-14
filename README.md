@@ -124,3 +124,7 @@ Windows 设置 →「应用」→ 找到 GPT桌宠 → 卸载。
 ## 关于
 
 小龙娘的每个动作都由 AI 视频模型生成，经过抠图和补帧做成 60 帧动画，语音由微软 晓伊 音色合成；桌面版基于 Electron 开发。本项目是 **vibe coding** 作品：hkking 提需求、试用和把关，代码和文档由 AI 编写。欢迎在 [Issues](https://github.com/hkk1121/hkking-desktop/issues) 反馈问题和建议。
+
+## 友情链接
+
+- [LINUX DO](https://linux.do/) —— 真诚分享、友好讨论的技术社区，本项目的交流与反馈也发布于此。
